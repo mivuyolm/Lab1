@@ -1,1 +1,1 @@
-I initialised and set up a Git repository. Then created a branch named feature/student-details and three files: student-info.txt, report.md, index.html and updated each with the required information. Then, I deployed the index.html file to GitHub Pages.  
+I initialised and set up a Git repository. Then created a branch named feature/student-details and three files: student-info.txt, report.md, index.html. In each file, I  updated it with the required information. Then, I deployed the index.html file to GitHub Pages. 
